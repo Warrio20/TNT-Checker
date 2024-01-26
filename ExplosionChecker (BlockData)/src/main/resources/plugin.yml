@@ -1,0 +1,5 @@
+name: ExplosionChecker
+version: '${project.version}'
+main: org.warrio38.mc.explosionchecker.ExplosionChecker
+api-version: '1.20'
+
